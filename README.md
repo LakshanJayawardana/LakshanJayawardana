@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm W A M Lakshan Jayawardana</h1>
-<h3 align="center">B Tech Computer Science & Engineering from NIT Rourkela, India</h3>
+<h3 align="center">Bachelors in Computer Science & Engineering from NIT Rourkela, India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
